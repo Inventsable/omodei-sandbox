@@ -1,19 +1,7 @@
 # omodei-sandbox
 
-## Project setup
-```
-npm install
-```
+## [See the demo here]()
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Simple flagship landing page for the [omodei package](https://github.com/battleaxedotco/omodei)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](./src/assets/screenshot.png)
